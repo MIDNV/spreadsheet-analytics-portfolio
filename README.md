@@ -74,9 +74,4 @@ The workbook is structured into dedicated functional layers to ensure modularity
 
 ## 🤝 Contact & Connect
 Author: Glen Owen Díaz Thornton
-
 LinkedIn: https://www.linkedin.com/in/glenodt/
-
-* **Author:** Your Name
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com?utm_source=gemini)
-* **Portfolio Website:** [Your Personal Website](https://example.com?utm_source=gemini)
