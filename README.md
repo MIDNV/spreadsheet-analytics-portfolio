@@ -27,22 +27,19 @@ By processing raw transactional performance logs, the dashboard delivers real-ti
 * **Data Standardization & Locale Error Handling:** Resolved complex `#VALUE!` syntax errors by standardizing decimal separators and unifying heterogeneous numeric data formats.
 
 
-
 ---
 
 ## 📊 Core Metrics & KPIs Tracked
 
 | Category | Metrics Tracked |
 | --- | --- |
-| **Monetization** | Total Revenue (IAP + Ad Revenue), Gross Revenue (IAP), Ad Revenue, and ARPU (Average Revenue Per User)
+| **Monetization** | Total Revenue (IAP + Ad Revenue), Gross Revenue (IAP), Ad Revenue, and ARPU (Average Revenue Per User)  |
 
- |
-| **User Engagement** | Daily Active Users (DAU) and Monthly Active Users (MAU)
 
- |
-| **Conversion & Health** | Average Conversion Rate (%) and Player Retention Rates (D1 & D7 Retention)
+| **User Engagement** | Daily Active Users (DAU) and Monthly Active Users (MAU)  |
 
- |
+
+| **Conversion & Health** | Average Conversion Rate (%) and Player Retention Rates (D1 & D7 Retention) |
 
 ---
 
@@ -62,7 +59,6 @@ The workbook is structured into dedicated functional layers to ensure modularity
 * **`04_Raw_Data`**: Clean, standardized data repository housing daily performance logs across titles, regions, and distribution platforms.
 
 
-
 ---
 
 ## 🚀 Getting Started / Live Demo
@@ -72,7 +68,6 @@ The workbook is structured into dedicated functional layers to ensure modularity
 
 2. To interact with filters or test formulas, select **File > Make a copy** to clone the sheet to your personal Google Drive account.
 3. Use the drop-down filters in **`02_Executive_KPIs`** to dynamically analyze metrics across platforms and titles.
-
 
 
 ---
